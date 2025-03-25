@@ -1,0 +1,2 @@
+wget -O ./checkpoint/mynet_best.pth https://www.dropbox.com/scl/fi/ks1imvkxu57jw33fj4x7h/mynet_best.pth?rlkey=5ingkihs85lb2s9znorlidrs0&st=jdaongd0&dl=1
+wget -O ./checkpoint/resnet18_best.pth https://www.dropbox.com/scl/fi/9cbfl9yhzlylsejig4k0g/resnet18_best.pth?rlkey=fpwd3f0w6vs8ie3d8jw5e9ton&st=70pxnkq1&dl=1

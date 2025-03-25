@@ -1,0 +1,1 @@
+python3 p2_train.py --dataset_dir ../hw2_data/p2_data/ 
